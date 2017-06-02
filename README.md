@@ -84,3 +84,8 @@ Create a MySQL database (Your hosting provider can assist)
 Visit your website where you uploaded the files (eg: yourwebsite.com/security/)
 The Installation Wizard will open automatically, just follow the steps.
 If you have any problems installing Project SECURITY please send me a message and I can help. Include your license purchase code, a link to your website and your FTP details so I can set the system up for you if needed.
+
+Front End: http://project-security.gq
+Admin Panel: http://project-security.gq/admin
+Username: admin
+Password: admin
